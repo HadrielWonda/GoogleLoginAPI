@@ -1,6 +1,0 @@
-GOOGLE Autthentticattion API;
-<appSettings>
-    <add key="redirect_uri" value="" />
-    <add key="client_id" value="" />
-</appSettings>
----------------------
